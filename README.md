@@ -1,1 +1,1 @@
-# meta
+# coursera-meta-course
